@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/saadkhalid90.github.io/capsWeb/static/css/main.a617e044.chunk.css",
-    "main.js": "/saadkhalid90.github.io/capsWeb/static/js/main.ad04061c.chunk.js",
-    "main.js.map": "/saadkhalid90.github.io/capsWeb/static/js/main.ad04061c.chunk.js.map",
-    "runtime-main.js": "/saadkhalid90.github.io/capsWeb/static/js/runtime-main.b0a8cc61.js",
-    "runtime-main.js.map": "/saadkhalid90.github.io/capsWeb/static/js/runtime-main.b0a8cc61.js.map",
-    "static/js/2.ffcf0400.chunk.js": "/saadkhalid90.github.io/capsWeb/static/js/2.ffcf0400.chunk.js",
-    "static/js/2.ffcf0400.chunk.js.map": "/saadkhalid90.github.io/capsWeb/static/js/2.ffcf0400.chunk.js.map",
-    "static/js/3.2083c413.chunk.js": "/saadkhalid90.github.io/capsWeb/static/js/3.2083c413.chunk.js",
-    "static/js/3.2083c413.chunk.js.map": "/saadkhalid90.github.io/capsWeb/static/js/3.2083c413.chunk.js.map",
-    "index.html": "/saadkhalid90.github.io/capsWeb/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/saadkhalid90.github.io/capsWeb/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.ffcf0400.chunk.js.LICENSE.txt": "/saadkhalid90.github.io/capsWeb/static/js/2.ffcf0400.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/saadkhalid90.github.io/capsWeb/static/media/logo.6ce24c58.svg",
-    "static/media/networkLocs.66da00cd.csv": "/saadkhalid90.github.io/capsWeb/static/media/networkLocs.66da00cd.csv"
+    "main.css": "/capsWeb/static/css/main.a617e044.chunk.css",
+    "main.js": "/capsWeb/static/js/main.ad04061c.chunk.js",
+    "main.js.map": "/capsWeb/static/js/main.ad04061c.chunk.js.map",
+    "runtime-main.js": "/capsWeb/static/js/runtime-main.3d7589dd.js",
+    "runtime-main.js.map": "/capsWeb/static/js/runtime-main.3d7589dd.js.map",
+    "static/js/2.ffcf0400.chunk.js": "/capsWeb/static/js/2.ffcf0400.chunk.js",
+    "static/js/2.ffcf0400.chunk.js.map": "/capsWeb/static/js/2.ffcf0400.chunk.js.map",
+    "static/js/3.2083c413.chunk.js": "/capsWeb/static/js/3.2083c413.chunk.js",
+    "static/js/3.2083c413.chunk.js.map": "/capsWeb/static/js/3.2083c413.chunk.js.map",
+    "index.html": "/capsWeb/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/capsWeb/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.ffcf0400.chunk.js.LICENSE.txt": "/capsWeb/static/js/2.ffcf0400.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/capsWeb/static/media/logo.6ce24c58.svg",
+    "static/media/networkLocs.66da00cd.csv": "/capsWeb/static/media/networkLocs.66da00cd.csv"
   },
   "entrypoints": [
-    "static/js/runtime-main.b0a8cc61.js",
+    "static/js/runtime-main.3d7589dd.js",
     "static/js/2.ffcf0400.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.ad04061c.chunk.js"

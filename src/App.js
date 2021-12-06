@@ -1,23 +1,26 @@
 import logo from './logo.svg';
 import './App.css';
+import NetworkMap from './networkMap.js';
+import {projection, geoPath} from './projections.js'
+
+const mapStyles = {
+  fill: 'lightgrey',
+  fillOpacity: '1',
+  stroke: 'darkgrey',
+  strokeWidth: '1px',
+  strokeOpacity: '0.0'
+};
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <NetworkMap
+        svgWidth={1200}
+        svgHeight={800}
+        mapStyles={mapStyles}
+        landkey={"capsAsiaMap"}
+        geoPath={geoPath}
+      />
     </div>
   );
 }
